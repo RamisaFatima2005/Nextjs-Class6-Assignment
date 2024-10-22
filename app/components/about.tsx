@@ -1,4 +1,5 @@
 import React from 'react'
+import Image from 'next/image'
 
 export default function About() {
   return (
@@ -9,7 +10,7 @@ export default function About() {
     <h1 className='text-5xl flex justify-start text-white'><b><i>About Me</i></b></h1>
     <br/>
     <br/>
-    <div className="text-white text-2xl flex justify-start w-96 h-5">
+    <div className="text-white text-2xl flex justify-start w-96 h-28">
     <p> I have experience working with 
       <br/>modern technologies like HTML, 
       <br/>CSS, TypeScript, and JavaScript, 
@@ -21,9 +22,17 @@ export default function About() {
       <br/>technologies.</p>
     </div>
 
-    {/*Picture*/}
-    <div className='flex justify-end'>
-      <img className='w-64 h-64' src='/About.PNG'/>
+{/*Image*/}
+<div className="flex justify-end">
+        <div className="relative -mt-24">
+          <Image
+            src="/About.PNG"
+            alt="About Me Picture"
+            width={250}
+            height={250}
+            className="rounded-lg shadow-lg"
+          />
+        </div>
       </div>
       
       </div>
