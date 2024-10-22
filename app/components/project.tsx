@@ -9,7 +9,7 @@ const Projects = () => {
         <p className="text-lg mb-8">
           Command-Line Interface (CLI) Projects
           <br />
-          Below are some of the CLI-based projects I've developed, 
+          Below are some of the CLI-based projects I&apos;ve developed, 
           <br/>showcasing my skills.
         </p>
       </div>
