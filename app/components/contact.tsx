@@ -7,7 +7,7 @@ const ContactMe = () => {
       <div className="text-center">
         <h1 className="text-3xl font-bold mb-4">CONTACT ME</h1>
         <p className="text-lg mb-8 max-w-md mx-auto">
-          I'd love to connect with you! Whether you have questions, want to collaborate on a project, or just want to say hi, feel free to reach out.
+          I&apos;d love to connect with you! Whether you have questions, want to collaborate on a project, or just want to say hi, feel free to reach out.
         </p>
       </div>
 
