@@ -31,7 +31,7 @@ export default function Home() {
     {/*Intro*/}
     <div className="p-32">
     <div className="text-white text-2xl flex justify-start w-96 h-7">
-    <p>Hii, I'm <b>Ramisa Fatima,</b>
+    <p>Hii, I&apos;m <b>Ramisa Fatima,</b>
     <br/>
     <br/>
     an aspiring AI engineer with a
