@@ -14,10 +14,10 @@ export default function About() {
     <p> I have experience working with 
       <br/>modern technologies like HTML, 
       <br/>CSS, TypeScript, and JavaScript, 
-      <br/>and I'm currently expanding my 
+      <br/>and I&apos;m currently expanding my 
       <br/>skills in Next.js. I enjoy creating 
       <br/>clean, responsive, and user-
-      <br/>friendly websites, and I'm always 
+      <br/>friendly websites, and I&apos;m always 
       <br/>eager to learn new tools and 
       <br/>technologies.</p>
     </div>
